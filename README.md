@@ -11,7 +11,6 @@
  3. The site needs to be responsive.  
     1. Please make the columns 100% width on mobile.  
     2. Implement any mobile UX tweeks you think would be beneficial. We are leaving moile in your court.  
- 4. The navigation and logo...work on these last. If you have time, bonus points. If you have time to make it responsive, even more bonus points.  
  
 # Design Assets
 1. Open the marvel link https://marvelapp.com/b391580/screen/53968974  
