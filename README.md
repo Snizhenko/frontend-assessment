@@ -1,5 +1,5 @@
 # Assessment Instructions
- This assessment's main focus is ui/ux/animation because we need a few more of that type of dev on our team.
+ This assessment's main focus is ui/ux/animation and responsive web development.
  
  **Design and Assets**: https://marvelapp.com/b391580/screen/53968974   
  **SVGs**: ```/public/svg``` directory  
