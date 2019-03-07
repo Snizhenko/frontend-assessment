@@ -22,7 +22,8 @@
 # Animation Requests
 The followign animations are required:  
 1. Parallax the header image on scroll
-2. Add the hover effect on the buckets and its elements. 
+2. Add the hover effect on the buckets and its elements.   
+You can find these animation examples in the ```/resources/animation.mp4``` video.  
 
 The tech stack is open to you but we are mainly a webpack, scss, babel environment. If you want to use a JS framework, plugins, jQuery...no problem. We use Vue and jQuery but it is in your hands on how you want to approach this. 
 
