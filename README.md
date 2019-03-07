@@ -7,10 +7,12 @@
  
 # Task
  1. Fork this repo to your personal GitHub account and clone it down locally.  
- 2. Create the HTML, CSS and JS to build out the complete design and animation/interactions from the Marvel App and Animation Example video.  
- 3. The site needs to be responsive.  
+ 2. Immediately push a commit with the message "Starting".
+ 3. Create the HTML, CSS and JS to build out the complete design and animation/interactions from the Marvel App and Animation Example video.  
+ 4. The site needs to be responsive.  
     1. Please make the columns 100% width on mobile.  
     2. Implement any mobile UX tweeks you think would be beneficial. We are leaving moile in your court.  
+ 5. Once completed, push a commit with the message "Finished".  
  
 # Design Assets
 1. Open the marvel link https://marvelapp.com/b391580/screen/53968974  
